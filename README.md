@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Chengzi830
-- 👀 I’m interested in making games
+
 - 🌱 I’m currently learning computer science and technology
 
 - 💞️ I’m looking to collaborate on ...
